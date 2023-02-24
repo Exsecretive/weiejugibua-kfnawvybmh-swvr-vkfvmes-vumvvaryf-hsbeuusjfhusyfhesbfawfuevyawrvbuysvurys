@@ -1,0 +1,64 @@
+-- This rightfully belongs to AnthonyIsntHere and DecayedSpirits (steal if skid XD)
+
+return {
+    -- COMBINATIONS
+    ["dickhead"] = "d𐌣 𐌀𐌣i𐌣 𐌀𐌣ćkhеа𐌣 𐌀𐌣d",
+    ["fucking"] = "𐌣  f𐌀𐌣u⁥с𐌣 𐌀𐌣king",
+    ["motherfucking"] = "mothe𐌣 𐌀𐌣r𐌣  f𐌀𐌣u⁥с𐌣 𐌀𐌣king",
+    -- NORMALS
+    ["ass"] = "а⁥⁥⁥⁥ѕѕ",
+    ["beaner"] = "beane𐌣 𐌀𐌣r", -- Unstable
+    ["bitch"] = "Вit𐌣 𐌀𐌣ch",
+    ["blowjob"] = "bl𐌣 𐌀𐌣оw𐌣 𐌀𐌣jоb",
+    ["boob"] = "bооb",
+    ["boner"] = "bоne𐌣 𐌀𐌣r", -- Unstable
+    ["cock"] = "сосk",
+--will fix soon    ["cunt"] = "cu{{AIeIXzVZx:nt}}",
+    ["cum"] = " 𐌣  f𐌀𐌣u⁥с𐌣 𐌀𐌣k⁥ уоu",
+    ["dick"] = "d𐌣 𐌀𐌣ìсk",
+    ["dildo"] = "dіl𐌣 𐌀𐌣dо",
+    ["dumb"] = "dumb", -- Unstable
+    ["dumbass"] = "dumba{{AIeIXzVZx:ss}}", -- Unstable
+    ["dyke"] = "dyk𐌣 𐌀𐌣е",
+    ["fag"] = "fa{{AIeIXzVZx:g}}",
+    ["fuck"] = " 𐌣  f𐌀𐌣u⁥с𐌣 𐌀𐌣k⁥",
+ --not needed   ["gaylord"] = "gayl{{AIeIXzVZx:ord}}",
+    ["hoe"] = "h{{zczxczvz:oe}}",
+    ["jew"] = "je{{zczxczvz:w}}",
+    ["jizz"] = "ji{{AIeIXzVZx:zz}}",
+  --not needed  ["kike"] = "ki{{AIeIXzVZx:ke}}",
+    ["kkk"] = "k{{AIeIXzVZx:kk}}",
+  --not needed  ["kyke"] = "ky{{AIeIXzVZx:ke}}",
+    ["masturbate"] = "mаs⁥t⁥u𐌣 𐌀𐌣r𐌣 𐌀𐌣bаtе",
+    ["motherfucker"] = " motherf𐌀𐌣u⁥с𐌣 𐌀𐌣k⁥er",
+    ["nazi"] = "n𐌣 𐌀𐌣аzі",
+    --not needed["nigga"] = "ni{{AIeIXzVZx:gga}}",
+   --not needed ["nigger"] = "ni{{AIeIXzVZx:gger}}",
+    ["piss"] = "pis𐌣 𐌀𐌣s",
+    ["penis"] = "pе⁥⁥⁥⁥⁥⁥nì⁥s",
+    ["pussy"] = "р𐌣 𐌀𐌣us𐌣 𐌀𐌣sу}}",
+    ["rap"] = "rap",  -- Unstable
+    ["retard"] = "retar𐌣 𐌀𐌣d",
+    ["sex"] = "se{{AIeIXzVZx:x}}",
+    ["shit"] = "sh{{AIeIXzVZx:it}}",
+    ["slut"] = "sl{{zczxczvz:ut}}",
+    ["sperm"] = "spe{{AIeIXzVZx:rm}}",
+    ["stfu"] = "st{{AIeIXzVZx:fu}}",
+    ["stupid"] = "stu{{AIeIXzVZx:pid}}",
+    ["testicle"] = "test{{AIeIXzVZx:icle}}",
+    ["tits"] = "ti{{AIeIXzVZx:ts}}",
+    ["vagina"] = "va{{AIeIXzVZx:gi}}na", -- Unstable
+    ["whore"] = "who{{AIeIXzVZx:re}}",
+    -- MISC.
+    ["discord"] = "disco{{zczxczvz:rd}}",
+    ["kys"] = "k{{AIeIXzVZx:ys}}",
+    ["kill"] = "ki{{zczxczvz:ll}}",
+    ["wtf"] = "wt{{AIeIXzVZx:f}}",
+    ["the"] = "th{{AIeIXzVZx:e}}",
+    ["tho"] = "th{{AIeIXzVZx:o}}", -- Unstable
+    ["lmao"] = "l{{AIeIXzVZx:mao}}",
+    ["lmfao"] = "l{{AIeIXzVZx:mfao}}",
+    ["suck"] = "suc{{AIeIXzVZx:k}}",
+    ["nuts"] = "n{{AIeIXzVZx:uts}}", -- Unstable
+    ["you"] = "y{{AIeIXzVZx:ou}}"
+}
