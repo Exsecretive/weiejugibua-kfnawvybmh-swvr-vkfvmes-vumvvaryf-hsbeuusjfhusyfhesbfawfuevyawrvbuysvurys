@@ -2,7 +2,7 @@
 
 return {
     -- COMBINATIONS
-    ["dickhead"] = "d𐌣 𐌀𐌣i𐌣 𐌀𐌣ćkhеа𐌣 𐌀𐌣d",
+    ["dickhead"] = "d𐌣 𐌀𐌣i𐌣 𐌀𐌣ckhеа𐌣 𐌀𐌣d",
     ["fucking"] = "𐌣  f𐌀𐌣u⁥с𐌣 𐌀𐌣king",
     ["motherfucking"] = "mothe𐌣 𐌀𐌣r𐌣  f𐌀𐌣u⁥с𐌣 𐌀𐌣king",
     -- NORMALS
@@ -30,7 +30,7 @@ return {
     ["kkk"] = "k{{AIeIXzVZx:kk}}",
   --not needed  ["kyke"] = "ky{{AIeIXzVZx:ke}}",
     ["masturbate"] = "mаs⁥t⁥u𐌣 𐌀𐌣r𐌣 𐌀𐌣bаtе",
-    ["motherfucker"] = " motherf𐌀𐌣u⁥с𐌣 𐌀𐌣k⁥er",
+    ["motherfucker"] = "m𐌣 𐌀𐌣otherf𐌀𐌣u⁥с𐌣 𐌀𐌣k⁥er",
     ["nazi"] = "n𐌣 𐌀𐌣аzі",
     --not needed["nigga"] = "ni{{AIeIXzVZx:gga}}",
    --not needed ["nigger"] = "ni{{AIeIXzVZx:gger}}",
