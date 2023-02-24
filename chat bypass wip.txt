@@ -1,4 +1,4 @@
--- This rightfully belongs to AnthonyIsntHere and DecayedSpirits (steal if skid XD)
+
 
 return {
     -- COMBINATIONS
@@ -6,19 +6,19 @@ return {
     ["fucking"] = "𐌣  f𐌀𐌣u⁥с𐌣 𐌀𐌣king",
     ["motherfucking"] = "mothe𐌣 𐌀𐌣r𐌣  f𐌀𐌣u⁥с𐌣 𐌀𐌣king",
     -- NORMALS
-    ["ass"] = "а⁥⁥⁥⁥ѕѕ",
+    ["ass"] = "а𐌣 𐌀𐌣s𐌣 𐌀 s",
     ["beaner"] = "beane𐌣 𐌀𐌣r", -- Unstable
     ["bitch"] = "Вit𐌣 𐌀𐌣ch",
     ["blowjob"] = "bl𐌣 𐌀𐌣оw𐌣 𐌀𐌣jоb",
-    ["boob"] = "bооb",
+    ["boob"] = " 𐌣 𐌀bооb",
     ["boner"] = "bоne𐌣 𐌀𐌣r", -- Unstable
     ["cock"] = "сосk",
---will fix soon    ["cunt"] = "cu{{AIeIXzVZx:nt}}",
+--will fix soon    ["с𐌣 𐌀𐌣unt"] = "cu{{AIeIXzVZx:nt}}",
     ["cum"] = " 𐌣  f𐌀𐌣u⁥с𐌣 𐌀𐌣k⁥ уоu",
     ["dick"] = "d𐌣 𐌀𐌣ìсk",
     ["dildo"] = "dіl𐌣 𐌀𐌣dо",
     ["dumb"] = "dumb", -- Unstable
-    ["dumbass"] = "dumba{{AIeIXzVZx:ss}}", -- Unstable
+    ["dumbass"] = "dumbа𐌣 𐌀𐌣s𐌣 𐌀s", -- Unstable
     ["dyke"] = "dyk𐌣 𐌀𐌣е",
     ["fag"] = "fa{{AIeIXzVZx:g}}",
     ["fuck"] = " 𐌣  f𐌀𐌣u⁥с𐌣 𐌀𐌣k⁥",
